@@ -1,8 +1,11 @@
 # Movement-of-Robot-Joints
 ## Aim:  
-    To move and drive the joints of the robot using python API.
+To move and drive the joints of the robot using python API.
+
 ## Equipment’s required:
-    Visual Components Premium 4.3
+
+Visual Components Premium 4.3
+
 ## Procedure:
 
 1. 	In the eCatalog panel, Collections view, browse to Models by Type>Robots>Visual Components and then add a Generic Articulated Robot to the 3D world.
